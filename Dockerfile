@@ -1,4 +1,4 @@
-FROM debian:latest
+FROM ubuntu:bionic
 
 # set version label
 ARG BUILD_DATE
