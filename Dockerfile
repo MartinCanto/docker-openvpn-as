@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM debian:latest
 
 # set version label
 ARG BUILD_DATE
