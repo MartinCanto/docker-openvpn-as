@@ -14,6 +14,7 @@ RUN \
  echo "**** install dependencies ****" && \
  apt-get update && \
  apt-get install -y \
+        curl \
 	bridge-utils \
 	gnupg \
 	iproute2 \
